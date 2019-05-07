@@ -1,5 +1,7 @@
 # Unit Testing with Jest & Enzyme
 
+Git Hooks setup
+
 ## What are Jest and Enzyme?
 
 * Jest is a Testing Framework create by Facebook that act as a test runner, assertion library and mocking library
